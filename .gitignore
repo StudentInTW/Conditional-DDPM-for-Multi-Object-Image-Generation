@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+
+# Data and large artifacts
+dataset/
+saved_models/
+*.pth
+*.mp4
+wandb/
+results_*/
+eval_videos/
